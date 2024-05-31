@@ -24,7 +24,7 @@
   "homepage": "https://github.com/enhance-dev/enhance-custom-element#readme",
   "dependencies": {
     "@enhance/base-element": "^1.3.2",
-    "@enhance/custom-element-mixin": "^1.2.2",
+    "@enhance/custom-element-mixin": "^1.3.0",
     "@enhance/template-mixin": "^1.0.3"
   },
   "devDependencies": {
